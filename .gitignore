@@ -93,3 +93,5 @@ ENV/
 *.iml
 out
 gen
+*.mp4
+*.m3u8
