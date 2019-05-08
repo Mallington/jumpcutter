@@ -7,5 +7,5 @@ I will look into optimising the original python script at a later date, so the p
 I have added some handy sh scripts to automate the process.
 
 ## Processing multiple files at once:
-   bash process.sh <regex.mp4>\
-The process.sh script will process all on different threads, so you may want to cut down your batch into seperate sections. See MasterProcess.sh for an example of how to do this.
+   `bash process.sh <regex.mp4>`\
+The process.sh script will process all on different threads, so you may want to cut down your batch into seperate sections. See `MasterProcess.sh` for an example of how to do this.
